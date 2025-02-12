@@ -1,8 +1,12 @@
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;想的是你,放不下的还是你！&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
+### Hi there 👋
 
+<a href="https://github.com/sy-records"><img src="https://raw.githubusercontent.com/sy-records/staticfile/master/images/202007/huaji.gif" align="right" height="150"></a>
+
+🎉 Welcome to my GitHub profile, it's great to meet you here!
+#### 💌 How to reach out to me
+
+You can reach me by [Email](mailto:552455797@qq.com), [WeChat](https://raw.githubusercontent.com/sy-records/staticfile/master/images/202304/ob_start.jpg).
+
+🎉 Welcome to my GitHub profile, it's great to meet you here!
 ![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/376efbc256f0269ea59e199759a87d699a25544e/github-contribution-grid-snake.svg)
 
