@@ -4,5 +4,5 @@
   </a>
 </div>
 
-![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg](https://github.com/HanRuoX/gihubSNK/blob/output/github-contribution-grid-snake.svg))
+![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/376efbc256f0269ea59e199759a87d699a25544e/github-contribution-grid-snake.svg)
 
