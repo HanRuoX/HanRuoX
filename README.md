@@ -6,6 +6,7 @@
 
 <!-- 个人资料徽标 -->
 Nice to meet you here in the sea of internet.
+<center><img src="coding.gif" width = "" height = ""></center>
 
 💪 **My Current Skills**:
 
@@ -24,10 +25,7 @@ You can reach me by [Email](mailto:552455797@qq.com).
 ![HanRuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanRuoX&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanRuoX&layout=compact)
 ![HanRuo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HanRuoX&theme=github)
-# 🚀 Action
 
-<br>
 
-<center><img src="coding.gif" width = "" height = ""></center>
 
 </div>
