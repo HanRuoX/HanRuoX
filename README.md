@@ -6,7 +6,6 @@
 
 <!-- 个人资料徽标 -->
 Nice to meet you here in the sea of internet.
-<center><img src="coding.gif" width = "" height = ""></center>
 
 💪 **My Current Skills**:
 
@@ -18,6 +17,7 @@ Nice to meet you here in the sea of internet.
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 ## 💌 How to reach out to me
+<center><img src="coding.gif" width = "" height = ""></center>
 
 You can reach me by [Email](mailto:552455797@qq.com).
 
