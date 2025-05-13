@@ -29,6 +29,6 @@ You can reach me by [Email](mailto:552455797@qq.com).
 
 <br>
 
-<center><img src="images/coding.gif" width = "" height = ""></center>
+<center><img src="coding.gif" width = "" height = ""></center>
 
 </div>
