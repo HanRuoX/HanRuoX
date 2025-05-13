@@ -21,7 +21,7 @@ Nice to meet you here in the sea of internet.
 You can reach me by [Email](mailto:552455797@qq.com).
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
-![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/376efbc256f0269ea59e199759a87d699a25544e/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 # 🚀 Action
 
 <br>
