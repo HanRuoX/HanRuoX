@@ -20,8 +20,10 @@ Nice to meet you here in the sea of internet.
 
 You can reach me by [Email](mailto:552455797@qq.com).
 
-🎉 Welcome to my GitHub profile, it's great to meet you here!
 ![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![HanRuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanRuoX&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanRuoX&layout=compact)
+![Lucinhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HanRuoX&theme=github)
 # 🚀 Action
 
 <br>
