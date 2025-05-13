@@ -5,9 +5,6 @@
 # 🙋 Hi, I'm HanRuo，🎉 Welcome to my GitHub profile, it's great to meet you here!
 
 <!-- 个人资料徽标 -->
-
-  <a href="https://space.bilibili.com/7397484"><img src="https://space.bilibili.com/475764956?spm_id_from=333.1245.0.0"></a>&emsp;
-
 Nice to meet you here in the sea of internet.
 
 💪 **My Current Skills**:
