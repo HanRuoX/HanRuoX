@@ -22,8 +22,11 @@ Nice to meet you here in the sea of internet.
 You can reach me by [Email](mailto:552455797@qq.com).
 
 ![](https://raw.githubusercontent.com/HanRuoX/gihubSNK/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![HanRuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanRuoX&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanRuoX&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanRuoX&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanRuoX&layout=compact" height="180"/>
+</p>
+
 ![HanRuo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HanRuoX&theme=github)
 
 
